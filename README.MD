@@ -1,6 +1,7 @@
 Vundle : https://github.com/VundleVim/Vundle.Vim
 
 view in edit to copy
+tmux
 
 ---
 
